@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash_bg">#6576FF</color> //#6576FF
+    <color name="bg_disabled">#8091A7</color>
+
+    <color name="colorPrimary">#FFFFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFFFF</color>
+    <color name="colorDark">#FFFFFFFF</color>
+    <color name="colorAccent">#6576FF</color>
+
+    <color name="colorTextPrimary">#364A63</color>
+    <color name="colorTextSecondary">#364A63</color>
+    <color name="red">#E85347</color>
+    <color name="yellow">#F4BD0E</color>
+    <color name="grey">#F5F6FA</color>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CareSaas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="caresaas_logo">Caresaas logo</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="fill_your_details_to_get_started">Fill your details to get started</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="contact_support">Contact Support</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="account">Account</string>
+    <string name="hi_george">Hi George!</string>
+    <string name="clock_in_to_begin_your_task">Clock-in to begin your task</string>
+    <string name="clock_in">Clock-in</string>
+    <string name="medication">Medication</string>
+    <string name="activities">Activities</string>
+    <string name="clocked_in">Clocked In</string>
+    <string name="take_a_break">Take a Break</string>
+    <string name="clock_out">Clock-out</string>
+    <string name="begin_task">You can now begin your task</string>
+    <string name="clock_in_to_begin">Clock-in to begin your task</string>
+    <string name="you_do_not_have_any_tasks_at_the_moment">You do not have any tasks\nat the moment</string>
+    <string name="you_do_not_have_any_activities_at_the_moment">You do not have any activities\nat the moment</string>
+</resources>
